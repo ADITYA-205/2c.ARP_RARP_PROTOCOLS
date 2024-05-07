@@ -1,4 +1,7 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+
+### NAME: S ADITYA
+### REG NO: 212223040007
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
